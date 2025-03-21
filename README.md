@@ -40,9 +40,13 @@ To run the tool: python network_monitor.py
 To display the help menu: python network_monitor.py -h
 
 📂 Where Are the Logs Stored?
+
 Windows: C:\Users\YourUser\AppData\Roaming\NetworkMonitorLogs
+
 Linux: /var/log/network_monitor/
+
 🚀 Contribute & Support
+
 If you have suggestions or want to contribute, feel free to open an issue or pull request on GitHub.
 
 🔗 GitHub Repository: Network Traffic Monitor

@@ -26,7 +26,9 @@ This tool monitors network traffic, detects suspicious activity, and logs data e
 1. Install Python: sudo apt update && sudo apt install python3 -y
 
 2. Clone the repository:
+
    git clone https://github.com/Jupa007/Network_Traffic_Monitor.git
+
    cd Network_Traffic_Monitor
    
 3. Run the script: python3 network_monitor.py
